@@ -10,5 +10,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AbigailCui&show_icons=true" />
 </a>
 <a href="https://github.com/weilining/website">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbigailCui&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12thstan&layout=compact" />
 </a>
