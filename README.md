@@ -7,7 +7,7 @@
 ### 🚦 统计信息
 
 <a href="https://github.com/12thstan">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbigailCui&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=12thstan&show_icons=true" />
 </a>
 <a href="https://github.com/weilining/website">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12thstan&layout=compact" />
